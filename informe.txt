@@ -1,0 +1,2 @@
+Comentarios: Gran parte de los ejercicios se pide implementarlo mediante listas por comprensión, pero no lo haces. 
+Nota: 2
